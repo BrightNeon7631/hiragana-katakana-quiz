@@ -34,6 +34,8 @@ I started and finished this project in July 2024.
 
 ### Desktop
 
+![Desktop Screenshot](screenshots/desktop4.gif)
+
 ![Desktop Screenshot](screenshots/desktop1.png)
 
 ![Desktop Screenshot](screenshots/desktop2.png)
